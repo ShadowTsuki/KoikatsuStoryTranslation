@@ -3,8 +3,8 @@
 //
 
 // chara/mt_pattern_SP.unity3d
-骑士护腿(左)=骑 thighs (left)
-骑士护腿(右)=骑 thighs (right)
+骑士护腿(左)=Knight Guard Thigh (Left)
+骑士护腿(右)=Knight Guard Thigh (Right)
 
 // chara/ao_leg_01.unity3d
 注射ガーターリング（左）=Syringe Gatling (Left)
