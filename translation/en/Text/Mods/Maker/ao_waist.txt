@@ -41,26 +41,26 @@
 エプロン=Apron
 
 // chara/mf_alice.unity3d
-金木犀の剣の鞘[アリス]=Scabbard of the Sword of the Golden Rhinoceros [Alice]
-金木犀の剣(納刀)[アリス]=Sword of the Golden Rhinoceros [Alice][SAO]
+金木犀の剣の鞘[アリス]=Sword of the Golden Rhinoceros Scabbard [Alice]
+金木犀の剣(納刀)[アリス]=Sword of the Golden Rhinoceros (Sword) [Alice]
 
 // chara/mf_alice_v2.unity3d
-金木犀の剣の鞘[アリス][SAO]=Scabbard of the Sword of the Golden Rhinoceros [Alice][SAO]
-金木犀の剣(納刀)[アリス][SAO]=Sword of the Golden Rhinoceros [Alice][SAO].
+金木犀の剣の鞘[アリス][SAO]=Sword of the Golden Rhinoceros Scabbard [Alice][SAO]
+金木犀の剣(納刀)[アリス][SAO]=Sword of the Golden Rhinoceros [Alice][SAO]
 
 // chara/mf_asuna.unity3d
-ラディアントライトの鞘[SAO]=Radiant Light Scabbard [SAO][Alice
-ラディアントライト(納刀)[SAO]=Radiant Light (sword)[SAO][SAO
+ラディアントライトの鞘[SAO]=Radiant Light Scabbard [SAO]
+ラディアントライト(納刀)[SAO]=Radiant Light (Sword)[SAO]
 
 // chara/mf_leafa.unity3d
 ヴァーデュラス・アニマの鞘[SAO]=Verdurus Anima Scabbard [SAO]
-ヴァーデュラス・アニマ(納刀)[SAO]=Verdurus Anima (sword)[SAO][SAO
+ヴァーデュラス・アニマ(納刀)[SAO]=Verdurus Anima (Sword) [SAO]
 
 // chara/mf_sinon_CaitSith.unity3d
-シノン(ケットシー)[SAO]=Sinon(Ketsee)[SAO][SAO
+シノン(ケットシー)[SAO]=Sinon(Ketsee)[SAO]
 
 // chara/nakay/ao_waist_osk00.unity3d
-オーバースカート・プリーツＡ=Overskirt Pleats A
+オーバースカート・プリーツＡ=Overskirt Pleated A
 オーバースカート・プリーツロングＡ=Overskirt Pleated Long A
 
 // chara/ao_creamset_nkt.unity3d
@@ -174,6 +174,6 @@ V字=V-shape
 頭-danua=head-danua
 
 // chara/ymd/mf_texchange.unity3d
-サイドドレープ [マスク変更]=side drape [mask change].
+サイドドレープ [マスク変更]=side drape [mask change]
 サイドドレープ [リボンなし]=side drape [without ribbon]
-サイドドレープ[白透過]=Side drape [white transparent].
+サイドドレープ[白透過]=Side drape [white transparent]
