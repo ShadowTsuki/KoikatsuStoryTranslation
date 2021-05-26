@@ -25,15 +25,15 @@
 ビーズシールド=Bead Shield
 ビーズシールドピアス=Bead Shield Earrings
 ビーズシールドジュエルピアス=Bead Shield Jewel Earrings
-1色ジュエルシールド=1 color jewel shield
-1色ジュエルシールドピアス=1 color jewel shield earrings
-1色ジュエルシールドジュエルピアス=1 color jewel shield jewel earrings
+1色ジュエルシールド=1 Color Jewel Shield
+1色ジュエルシールドピアス=1 Color Jewel Shield Earrings
+1色ジュエルシールドジュエルピアス=1 Color Jewel Shield Jewel Earrings
 2色ジュエルシールド=2 Color Jewel Shield
 2色ジュエルシールドピアス=2 Color Jewel Shield Earrings
-2色ジュエルシールドジュエルピアス=2 color jewel shield jewel earrings
+2色ジュエルシールドジュエルピアス=2 Color Jewel Shield Jewel Earrings
 
 // chara/gray/F_devil01_a.unity3d
-悪魔の翼左用（改）=Devil's Wings for Left (Revision)
+悪魔の翼左用（改）=Devil's Wings for Left (Revised)
 悪魔の翼右用（改）=Devil's Wing for Right (Revised)
 
 // chara/koikoi/ao_body_07.unity3d
@@ -47,7 +47,7 @@ AI翼=AI Wings
 
 // chara/nakay/ao_cardigan_n01.unity3d
 セーラー重ね着カーディガン１=Sailor Layered Cardigan 1
-セーラー重ね着カーディガン２=Sailor Overlapping Cardigan 2
+セーラー重ね着カーディガン２=Sailor Layered Cardigan 2
 
 // chara/mod/mod_eden_vb.unity3d
 光翼_エデンVB=Hikari Tsubasa_Eden VB
@@ -60,14 +60,14 @@ AI翼=AI Wings
 
 // chara/roie/roie_accessories.unity3d
 背負いカバン（取手なし）=Backpack (without handle)
-デイパック=daypack
+デイパック=Daypack
 
 // chara/ao_body_halloween.unity3d
 クモの巣=Spider Web
 
 // chara/ao_body_newyear.unity3d
-勲章=medals
-メダル=medal
+勲章=Medal
+メダル=Medal
 
 // chara/ao_body_xmas.unity3d
 プレゼント袋=Gift Bag
