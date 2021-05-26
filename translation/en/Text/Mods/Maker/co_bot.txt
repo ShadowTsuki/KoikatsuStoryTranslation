@@ -15,35 +15,35 @@
 ネクロマンサーのズボン=Necromancer's Trousers
 
 // chara/co_bot_00.unity3d
-ローライズロングパンツLv1=ローライズロングパンツL v1
-ローライズロングパンツLv2=ローライズロングパンツL v2
-ローライズロングパンツLv3=ローライズロングパンツL v3
-ローライズロングパンツLv4=ローライズロングパンツL v4
+ローライズロングパンツLv1=Low-rise Long Pants Lv1
+ローライズロングパンツLv2=Low-rise Long Pants Lv2
+ローライズロングパンツLv3=Low-rise Long Pants Lv3
+ローライズロングパンツLv4=Low-rise Long Pants Lv4
 
 // chara/co_shoes_22_22.unity3d
-偶像长裤=Even long pants
+偶像长裤=Even Long pants
 
 // chara/mt_pattern_SH.unity3d
 挽裤脚长裤=Long pants
 礼服长裤(靴用)=Long pants (for shoes)
-宽松长裤靴版=Kukamatsu long pants shoe version
-宽松长裤外版=Kuanmu long pants outer version
+宽松长裤靴版=Loose Pants Boots version
+宽松长裤外版=Loose Pants Outer version
 
 // chara/mt_pattern_KA.unity3d
-HS2贵族长裤=HS2 long pants
+HS2贵族长裤=HS2 Long pants
 
 // chara/ao_head_01.unity3d
-宽松礼服长裤=Long pants for formal wear
+宽松礼服长裤=Formal Long pants
 
 // chara/bot_makoto.unity3d
-休闲长裤=Casual long pants
+休闲长裤=Casual Long pants
 
 // chara/Sen3_hair.unity3d
 闪轨本校制服=Internal channels
 闪轨军服=Channel cloth
 
 // chara/Sen3_rean.unity3d
-黎恩服饰=Beach Beach Clothing
+黎恩服饰=Lean Beach Clothing
 
 // chara/exe/miku.unity3d
 ミクスカート=Mini skirt
@@ -83,8 +83,8 @@ HS2贵族长裤=HS2 long pants
 前開きホットパンツ=Front-opening hot pants
 
 // chara/Hayashi/hayashi_bot_open.unity3d
-前開きスカートA=Front-opening skirt A
-前開きスカートB=Front-open skirt B
+前開きスカートA=Front-open Skirt A
+前開きスカートB=Front-open Skirt B
 
 // chara/hffun_mods/hffun_runwear_bot_00.unity3d
 ランニングショーツA=Running Shorts A
@@ -110,11 +110,11 @@ HS2贵族长裤=HS2 long pants
 
 // chara/Mint/co_M_O-back.unity3d
 穴あきホットパンツ=Hot Pants with Holes
-ハート穴ホットパンツ=Heart Hole Hot Pants
+ハート穴ホットパンツ=Hot Pants with Heart Hole
 
 // chara/Mint/co_Mint_SuperMiniTightSkirt.unity3d
 ミニミニタイトスカート=Mini Mini Tight Skirts
-ミニミニタイト(ベルトなし)=Mini Mini Tight (without belt)
+ミニミニタイト(ベルトなし)=Mini Mini Tight (Without Belt)
 超ミニミニタイトスカート=Super Mini Mini Tight Skirts
 超ミニミニタイト(ベルトなし)=Super Mini Mini Tight (Without Belt)
 
@@ -131,13 +131,13 @@ HS2贵族长裤=HS2 long pants
 スカート[アリス][SAO]=Skirt [Alice][SAO]
 
 // chara/mf_asuna.unity3d
-創世神ステイシア[SAO]=God of Creation Stacia [SAO][SAO
+創世神ステイシア[SAO]=God of Creation Stacia [SAO]
 
 // chara/mf_leafa.unity3d
-地神テラリア[SAO]=Earth God Terraria [SAO].
+地神テラリア[SAO]=Earth God Terraria [SAO]
 
 // chara/mf_sinon.unity3d
-太陽神ソルス[SAO]=Solus, God of the Sun[SAO].
+太陽神ソルス[SAO]=Solus, God of the Sun[SAO]
 
 // chara/nakay/co_bot_nkt00.unity3d
 ニッカ(Low無)=Knickers (Low)
@@ -158,13 +158,13 @@ HS2贵族长裤=HS2 long pants
 
 // chara/nashi/ns_skirt.unity3d
 ペチコート付きショートプリーツスカート1=Short Pleated Skirt with Petticoat 1
-ペチコート付きショートプリーツスカート2=Short Pleated Skirt with Petticoat2
-ペチコート付きショートボックススカート1=Short Box Skirt with Petticoat1
-ペチコート付きショートボックススカート2=Short Box Skirt with Petticoat2
-フリル付きショートプリーツスカート1=Short Pleated Skirt with Ruffles1
-フリル付きショートプリーツスカート2=Short Pleated Skirt with Ruffles2
-フリル付きショートボックススカート1=Short Box Skirt with Ruffles1
-フリル付きショートボックススカート2=Short Box Skirt with Ruffles2
+ペチコート付きショートプリーツスカート2=Short Pleated Skirt with Petticoat 2
+ペチコート付きショートボックススカート1=Short Box Skirt with Petticoat 1
+ペチコート付きショートボックススカート2=Short Box Skirt with Petticoat 2
+フリル付きショートプリーツスカート1=Short Pleated Skirt with Ruffles 1
+フリル付きショートプリーツスカート2=Short Pleated Skirt with Ruffles 2
+フリル付きショートボックススカート1=Short Box Skirt with Ruffles 1
+フリル付きショートボックススカート2=Short Box Skirt with Ruffles 2
 アシメスカート=Asymmetrical Skirt
 アシメスカート 3色=Asymetrical Skirt 3 Colors
 アシメスカート ロング 3色=Asymetrical Skirt Long 3 Colors
@@ -182,7 +182,7 @@ HS2贵族长裤=HS2 long pants
 ショートテニススカート_collider=Short Tennis Skirt_collider
 
 // chara/NBY_bot.unity3d
-NBYスカート=NBY Skirts
+NBYスカート=NBY Skirt
 NBYパンツ=NBY Pants
 
 // chara/nin/nin_bot.unity3d
@@ -197,11 +197,11 @@ NBYパンツ=NBY Pants
 ショートパンツ(大破)=Shorts (Wrecked)
 
 // chara/shortjeans/wet_shortjeans.unity3d
-ホットパンツ(濡)=Hot pants (wet)
-ショートパンツ(濡)=Shorts (wet)
+ホットパンツ(濡)=Hot pants (Wet)
+ショートパンツ(濡)=Shorts (Wet)
 
 // chara/shortjeans/wethead_shortjeans.unity3d
-ショートパンツ(大濡)=Wet shorts
+ショートパンツ(大濡)=Wet Shorts
 
 // chara/jeans/rollup_jeans.unity3d
 RUデニム(銅)=RU Denim (Copper)
@@ -228,7 +228,7 @@ wen立华奏=wen liyuan
 wen妖精=wen Fairy
 
 // wen/wenyeye.unity3d
-wen夜夜=WEN Night Night
+wen夜夜=wen Night Night
 
 // chara/xne/xne_co_bot_altspants.unity3d
 汎用短パン=General Shorts
@@ -236,10 +236,10 @@ wen夜夜=WEN Night Night
 脇開き短パン=Side Opening Shorts
 
 // chara/xne/xne_co_bot_dancepjm.unity3d
-前開きズボン=Front Opening Pants
-前開きダンスズボン=Front-open dance pants
+前開きズボン=Front-opening Pants
+前開きダンスズボン=Front-opening dance pants
 前開きズボンベルト付き=Front-opening pants with belt
-前開きダンスズボンベルト付き=Front-open dance pants with belt
+前開きダンスズボンベルト付き=Front-opening dance pants with belt
 
 // chara/xne/xne_co_bot_skdrs02.unity3d
 エジプト風透け腰布=Egyptian style transparent waist cloth
@@ -258,14 +258,14 @@ wen夜夜=WEN Night Night
 サイトウ風パンツ=Saitou-style pants
 
 // chara/xne/xne_co_bot_sk80p.unity3d
-短めプリーツスカートA改=Short pleated skirt A modified
-短めボックススカートA改=Short Box Skirt A
+短めプリーツスカートA改=Short Pleated skirt A Modified
+短めボックススカートA改=Short Box Skirt A Modified
 
 // chara/xne/xne_cpo_jacket_skcdg.unity3d
 腰巻カーディガン並=Waist Wrap Cardigan
 腰巻カーディガン広=Wide Waistband Cardigan
 腰巻カーディガン広々=Wide Waist Wrap Cardigan
-短めフレアスカートＢ改=short flared skirt B modified
+短めフレアスカートＢ改=short flared skirt B Modified
 
 // chara/ymd/mf_clothVariation.unity3d
 プリーツスカート (x1.2)=Pleated Skirts (x1.2)
@@ -283,11 +283,11 @@ wen夜夜=WEN Night Night
 フレアスカートB レイヤー コルセット=Flared Skirt B Layered Corset
 ジーンズもどき=Pseudo Jeans
 ジーンズもどき だぼだぼ=Slouchy Jeans
-ロングスカート アシンメトリー 左右=Long Skirt Asymmetrical Left/Right
+ロングスカート アシンメトリー 左右=Long Skirt Asymmetrical Left and Right
 ロングスカート アシンメトリー 前後=Long Skirt Asymmetrical Front and Back
 
 // chara/ymd/mf_clothVariation4.unity3d
-袖ぶかジャージ 下=Sleeve jersey bottom
+袖ぶかジャージ 下=Sleeve Jersey bottom
 
 // chara/ymd/mf_clothVariationP.unity3d
 PCゴシックロリータ スカート=PC Gothic Lolita Skirt
