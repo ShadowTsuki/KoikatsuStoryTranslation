@@ -4,14 +4,14 @@
 
 // chara/nam/nam_ao_kokan_00.unity3d
 アナルプラグ1=Anal Plug 1
-アナルプラグ2=anal plug 2
+アナルプラグ2=Anal Plug 2
 ハートアナルプラグ1=Heart Anal Plug 1
 ハートアナルプラグ2=Heart Anal Plug 2
-ティアドロップアナルプラグ1=teardrop anal plug 1
-ティアドロップアナルプラグ2=teardrop anal plug 2
+ティアドロップアナルプラグ1=Teardrop Anal Plug 1
+ティアドロップアナルプラグ2=Teardrop Anal Plug 2
 
 // chara/koi_ao_kokan_00.unity3d
-アナルビーズ=anal beads
+アナルビーズ=Anal Beads
 
 // chara/nakay/ao_puhair_kp.unity3d
 kPlug用四角=Square for kPlug
@@ -39,7 +39,7 @@ kPlug用陰唇２=Labia 2 for kPlug
 陰毛R=Pubic hair R
 
 // chara/ymd/mf_accetcP.unity3d
-バナナ=banana
+バナナ=Banana
 バナナ 黒=Banana Black
 ゴーヤ=Bitter Melon
 ゴーヤ 色替え可=Bitter melon can be changed
