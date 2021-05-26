@@ -6,4 +6,4 @@
 シングルカール_エデンVB=Single Curl_Eden VB
 
 // chara/mod/mod_sample_rcl_00.unity3d
-動く！狐耳=Move! fox ears
+動く！狐耳=Moving! Fox ears
