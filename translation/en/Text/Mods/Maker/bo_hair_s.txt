@@ -6,13 +6,13 @@
 ほそウェーブ=Faint Waves
 
 // chara/mf_leafa.unity3d
-地神テラリア[SAO]=Earth God Terraria [SAO].
+地神テラリア[SAO]=Earth God Terraria [SAO]
 
 // chara/mf_sinon_CaitSith.unity3d
-シノン(ケットシー)[SAO]=Sinon(Ketsee)[SAO][SAO
+シノン(ケットシー)[SAO]=Sinon (Ketsee) [SAO]
 
 // chara/mf_sinon.unity3d
-シノン[SAO]=Sinon [SAO][SAO
+シノン[SAO]=Sinon [SAO]
 
 // chara/mod/mod_eden_vb.unity3d
 ミドルロング_エデンVB=Middle Long_Eden VB
