@@ -26,11 +26,11 @@
 
 // chara/_mods/gantz_suit2.unity3d
 ガンツ丸1個=Gantz Round 1pc
-ガンツ丸靴用４個=Ganz Round for Shoes 4 pcs
-ガンツ丸横２個=Ganz Round Horizontal 2 pcs
-ガンツ丸縦２個=2 vertical Ganz rounds
-ガンツ丸腕用４個=4 Gants for arms
-ガンツ丸首用４個=4 pcs for neck
+ガンツ丸靴用４個=Gantz Round for Shoes 4 pcs
+ガンツ丸横２個=Gantz Round Horizontal 2 pcs
+ガンツ丸縦２個=Gantz Round Vertical 2 pcs
+ガンツ丸腕用４個=Gantz Round for Arms 4 pcs
+ガンツ丸首用４個=Gantz Round pcs for Neck 4 pcs
 
 // chara/_mods/gantz_suit5.unity3d
 ガンツ丸金属=Gantz Maru Metal
@@ -79,13 +79,13 @@ Qテクターパーツ=Q-Tector Parts
 AIダクトテープ芯=AI duct tape core
 
 // chara/mf_alice.unity3d
-騎士のリボン[アリス]=Knight's ribbon [Alice][SAO
+騎士のリボン[アリス]=Knight's ribbon [Alice]
 
 // chara/mf_alice_v2.unity3d
 整合騎士のリボン[アリス][SAO]=Alignment Knight's Ribbon [Alice][SAO]
 
 // chara/mf_asuna.unity3d
-腕輪：創世神ステイシア[SAO]=Arm band: Stacia, God of Creation [SAO].
+腕輪：創世神ステイシア[SAO]=Arm band: Stacia, God of Creation [SAO]
 
 // chara/ao_arm_halloween.unity3d
 ドクロ=Pattern 15
