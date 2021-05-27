@@ -13,8 +13,8 @@
 おぱんつ8=Panty 8
 
 // chara/nam/co_shibari_00.unity3d
-亀甲縛り改1=Tortoise Shell Binding Kai 1
-亀甲縛り改2=Tortoise Shell Binding Kai 2
+亀甲縛り改1=Tortoise Shell Binding Revised 1
+亀甲縛り改2=Tortoise Shell Binding Revised 2
 
 // chara/_mods/fumina02.unity3d
 フミナ3=Humina 3
@@ -33,7 +33,7 @@ Maハイローショーツ=Ma High-Low Panties
 ランニングショーツ=Running Shorts
 
 // chara/_kero/cpo_shimakazeS_NT_00.unity3d
-エンブレムシール(下)UV変更=Emblem sticker (bottom) UV change
+エンブレムシール(下)UV変更=Emblem sticker (Bottom) UV change
 
 // chara/hundosi_k.unity3d
 ふんどし_k=Loincloth_k
@@ -46,24 +46,24 @@ Maハイローショーツ=Ma High-Low Panties
 ドロワーズ=Drawers
 旧ドロワーズ=Old Drawers
 旧ドロワーズ＆スタンダードショーツ=Old Drawers & Standard Panties
-ビキニ(UV改)=Bikinis(UV Modification)
+ビキニ(UV改)=Bikinis(UV Revised)
 
 // chara/nashi/ns_mizugi.unity3d
 ビキニショーツ=Bikinis Panties
-ビキニショーツ 食い込み気味=Bikinis with bite
+ビキニショーツ 食い込み気味=Bikinis with Bite
 メタルビキニショーツ=Metal Bikini Panties
 
 // chara/nashi/ns_shorts.unity3d
-ショーツ1=Panties 1
-ショーツ2=Panties 2
-ショーツ3=Panties 3
-ショーツ4=Panties 4
-ショーツ5=Panties 5
+ショーツ1=Shorts 1
+ショーツ2=Shorts 2
+ショーツ3=Shorts 3
+ショーツ4=Shorts 4
+ショーツ5=Shorts 5
 ショーツ6=Shorts 6
 ショーツ7=Shorts 7
 ショーツ8=Shorts 8
 ショーツ9=Shorts 9
-ショーツ10=Panties 10
+ショーツ10=Shorts 10
 
 // chara/nashi/ns_shorts_zuri.unity3d
 ずらしショーツ=Sliding Panties
@@ -87,13 +87,13 @@ Maハイローショーツ=Ma High-Low Panties
 ブーメラン=Boomerang
 
 // chara/xne/xne_co_bot_spats_sss.unity3d
-ベリx2ショスパッツ=Belly x 2 Shots Panties
+ベリx2ショスパッツ=Belly x2 Shorts Panties
 
 // chara/xne/xne_co_bot_hlbikini.unity3d
 ハイレグビキニ=High-Leg Bikini
 
 // chara/xne/xne_co_bot_spats_s.unity3d
-ショートスパッツ=Short spats
+ショートスパッツ=Short Spats
 ベリショスパッツ=Verishot Spats
 
 // chara/xne/xne_co_shorts_HMB.unity3d
@@ -110,15 +110,15 @@ Maハイローショーツ=Ma High-Low Panties
 ローレグブルマ=Low Leg Bloomers
 
 // chara/y004.unity3d
-マイクロビキニ（下）=Micro bikini (bottom)
+マイクロビキニ（下）=Micro bikini (Bottom)
 
 // chara/ztoki/ztoki_03_shorts_00.unity3d
-はみげるパンツ [イ]=Revealing pants [A].
-はみげるパンツ [ロ]=Bald pants [B].
-はみげるパンツ [ハ]=Revealing pants [C].
+はみげるパンツ [イ]=Revealing Pants [A]
+はみげるパンツ [ロ]=Revealing Pants [B]
+はみげるパンツ [ハ]=Revealing Pants [C]
 
 // chara/ztoki/ztoki_01b_shorts_nippless.unity3d
-ハート=Pattern 9
+ハート=Heart
 星=Star
 クロス=Cross
 ハート 小=Heart Small
