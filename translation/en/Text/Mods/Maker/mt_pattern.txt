@@ -21,9 +21,9 @@ SKBR-ＴシャツS=SKBR-T-shirt S
 SKBR-ロングシャツL=SKBR Long Shirt L
 SKBR-ロングシャツM=SKBR-Long Shirt M
 SKBR-ロングシャツS=SKBR-Long Shirt S
-SKBR-ジャッケット内L=SKBR-Jacket inside L
-SKBR-ジャッケット内M=SKBR-Jacket inside M
-SKBR-ジャッケット内S=SKBR-Jacket inside S
+SKBR-ジャッケット内L=SKBR-Jacket Inside L
+SKBR-ジャッケット内M=SKBR-Jacket Inside M
+SKBR-ジャッケット内S=SKBR-Jacket Inside S
 平織=Plain weave
 綾織=Twill weave
 ヘリンボーン=Herringbone
@@ -31,15 +31,15 @@ SKBR-ジャッケット内S=SKBR-Jacket inside S
 鮫肌=Shark skin
 矢印=Arrow 1
 矢印2=Arrow 2
-菱柄=diamond pattern
-楕円=oval
+菱柄=Diamond pattern
+楕円=Oval
 
 // chara/JK/JK_pattern.unity3d
 シミ横0縦110=Stain horizontal 0 vertical 110
-グラデーションボーダー2=Gradation Border2
+グラデーションボーダー2=Gradation Border 2
 
 // chara/taka/taka_mt_pattern_01.unity3d
-スク水 サイドライン1A=Squids Sideline 1A
+スク水 サイドライン1A=School Swimsuit Sideline 1A
 スク水 サイドライン1B=School Swimsuit Sideline 1B
 スク水 サイドライン2A=School Swimsuit Sideline 2A
 スク水 サイドライン2B=School Swimsuit Sideline 2B
@@ -47,16 +47,16 @@ SKBR-ジャッケット内S=SKBR-Jacket inside S
 スク水 サイドライン4=School Swimsuit Sideline 4
 
 // chara/taka/taka_mt_pattern_02.unity3d
-スク水 サイドライン1A (柄②OP)=School Swimsuit Sideline 1A (Pattern 2 OP)
-スク水 サイドライン1B (柄②OP)=School Swimsuit Sideline 1B (Pattern 2OP)
-スク水 サイドライン2A (柄②OP)=School Swimsuit Sideline 2A (Pattern 2)
-スク水 サイドライン2B (柄②OP)=School Swimsuit Sideline 2B (Pattern 2)
-スク水 サイドライン3 (柄②OP)=Swimsuit, Sideline 3 (Pattern 2)
-スク水 サイドライン4 (柄②OP)=School Swimsuit Sideline 4 (Pattern ②OP)
-スク水 無地 (柄②OP)=School Swimsuit Solid Color (Pattern 2)
+スク水 サイドライン1A (柄②OP)=School Swimsuit Sideline 1A (Pattern ② OP)
+スク水 サイドライン1B (柄②OP)=School Swimsuit Sideline 1B (Pattern ② OP)
+スク水 サイドライン2A (柄②OP)=School Swimsuit Sideline 2A (Pattern ② OP)
+スク水 サイドライン2B (柄②OP)=School Swimsuit Sideline 2B (Pattern ② OP)
+スク水 サイドライン3 (柄②OP)=School Swimsuit Sideline 3 (Pattern ② OP)
+スク水 サイドライン4 (柄②OP)=School Swimsuit Sideline 4 (Pattern ② OP)
+スク水 無地 (柄②OP)=School Swimsuit Solid Color (Pattern ② OP)
 
 // chara/taka/taka_mt_pattern_15.unity3d
-艦これ呂500 セーラー胴タイプ6用柄=This ship Lu500 Sailor Body Pattern for Type 6
+艦これ呂500 セーラー胴タイプ6用柄=KanColle 500 Sailor Body Type 6 Pattern
 
 // list/characustom/00_vkat02.unity3d
 斜めチェックA=Slanted Checkered A
@@ -71,7 +71,7 @@ SKBR-ジャッケット内S=SKBR-Jacket inside S
 生地２=Fabric 2
 生地３=Fabric 3
 生地４=Fabric 4
-紙しわ=Paper creases
+紙しわ=Paper Creases
 革=Leather
 毛皮１=Fur 1
 毛皮２=Fur 2
@@ -82,23 +82,23 @@ SKBR-ジャッケット内S=SKBR-Jacket inside S
 大理石=Marble
 タイル１=Tile 1
 タイル２=Tile 2
-金網=wire mesh
+金網=Wire Mesh
 飛沫=Splash
-水面１=Water surface1
-水面２=water surface 2
+水面１=Water Surface 1
+水面２=Water Surface 2
 混ざる=Mixture
-生地しわ１=Fabric wrinkle 1
-生地しわ２=Fabric wrinkle 2
+生地しわ１=Fabric Wrinkle 1
+生地しわ２=Fabric Wrinkle 2
 生地しわ３=Fabric Wrinkle 3
 生地しわ４=Fabric Wrinkle 4
 生地しわ５=Fabric Wrinkle 5
 生地しわ６=Fabric Wrinkle 6
-生地しわ７=Fabric Crinkle 7
-生地しわ８=Fabric Crinkle 8
+生地しわ７=Fabric Wrinkle 7
+生地しわ８=Fabric Wrinkle 8
 生地しわ９=Fabric Wrinkle 9
-生地しわ１０=Fabric Crinkle 10
-生地しわ１１=Fabric Crinkle 11
-生地しわ１２=Fabric Crinkle 12
+生地しわ１０=Fabric Wrinkle 10
+生地しわ１１=Fabric Wrinkle 11
+生地しわ１２=Fabric Wrinkle 12
 生地しわ１３=Fabric Wrinkle 13
 しわ線１=Wrinkle line 1
 しわ線２=Wrinkle Line 2
