@@ -10,11 +10,11 @@
 長手袋(R)=Long Glove(R)
 
 // chara/mt_pattern_KA.unity3d
-贵族腰带=Women's waistband
-贵族护臂=贵族护臂
+贵族腰带=Women's Waistband
+贵族护臂=Noble Armguards
 
 // chara/_mods/Gal_03.unity3d
-もっとルーズソックス=More Loose Socks
+もっとルーズソックス=Looser Socks
 
 // chara/_mods/makinon06.unity3d
 マキノソックス=Makino Socks
@@ -40,15 +40,15 @@
 ネイルチップ（Ｌ）=Nail Tip (L)
 
 // chara/nakay/co_kuikomithigh_nkt00.unity3d
-くいこみニーソ=Kumikomi Knee Socks
-くいこみサイハイ=KIKUMI SAI HIGH
+くいこみニーソ=Kuikomi Knee Socks
+くいこみサイハイ=Kuikomi Sides High
 
 // chara/nashi/ns_socks.unity3d
-左ハイサイ=Left High Sai
-左ニーソ=Left knee socks
-左ハイソ=Left high-socks
-右ニーソ=Right Knee Socks
-右ハイソ=right high-socks
+左ハイサイ=Left Sides High
+左ニーソ=Left Knee-Socks
+左ハイソ=Left High-Socks
+右ニーソ=Right Knee-Socks
+右ハイソ=Right High-Socks
 
 // chara/mod/mod_aurora_al.unity3d
 ガーターサイハイ_オーロラAL=Garter sigh high_Aurora AL
@@ -77,7 +77,7 @@ wen妖精=wen Fairy
 
 // chara/ymd/mf_clothVariation.unity3d
 くいこみニーハイ 1=Knee High 1
-くいこみニーハイ 2=Knee highs 2
+くいこみニーハイ 2=Knee High 2
 
 // chara/ymd/mf_siru.unity3d
 汁1=Juice 1
@@ -86,7 +86,7 @@ wen妖精=wen Fairy
 汁4=Juice 4
 
 // chara/ymd/mf_texchange.unity3d
-騎士のソックス[マスク変更]=Knight's socks [mask change].
+騎士のソックス[マスク変更]=Knight's socks [Mask change]
 
 // chara/ztoki/ztoki_04_socks_00.unity3d
 長めのニーソ=Longer Knee Socks
