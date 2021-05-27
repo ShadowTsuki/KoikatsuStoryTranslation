@@ -10,32 +10,32 @@
 [Add]ゆったりロングパンツ=[Add] Loose Long Pants
 
 // chara/AntY/co_panst_00.unity3d
-アラストル Ant Y Stockings Transparent 1 (Garter Belt)=Arastole Ant Y Stockings Transparent 1 (Garter Belt)
-アラストル Ant Y Stockings Transparent 2 (Garter Belt)=Arastru Ant Y Stockings Transparent 2 (Garter Belt)
-アラストル Ant Y Stockings Transparent 3 (Garter Belt)=Arastre Ant Y Stockings Transparent 3 (Garter Belt)
-アラストル Ant Y Stockings Solid 1 (Garter Belt)=Arastole Ant Y Stockings Solid 1 (Garter Belt)
-アラストル Ant Y Stockings Solid 2 (Garter Belt)=Arastole Ant Y Stockings Solid 2 (Garter Belt)
-アラストル Ant Y Stockings Solid 3 (Garter Belt)=Arastole Ant Y Stockings Solid 3 (Garter Belt)
-アラストル Ant Y Stockings Transparent 1=Arastru Ant Y Stockings Transparent 1
-アラストル Ant Y Stockings Transparent 2=Arastru Ant Y Stockings Transparent 2
-アラストル Ant Y Stockings Transparent 3=Arastru Ant Y Stockings Transparent 3
-アラストル Ant Y Stockings Solid 1=Arastole Ant Y Stockings Solid 1
-アラストル Ant Y Stockings Solid 2=Arastole Ant Y Stockings Solid 2
-アラストル Ant Y Stockings Solid 3=Arastru Ant Y Stockings Solid 3
+アラストル Ant Y Stockings Transparent 1 (Garter Belt)=Alastor Ant Y Stockings Transparent 1 (Garter Belt)
+アラストル Ant Y Stockings Transparent 2 (Garter Belt)=Alastor Ant Y Stockings Transparent 2 (Garter Belt)
+アラストル Ant Y Stockings Transparent 3 (Garter Belt)=Alastor Ant Y Stockings Transparent 3 (Garter Belt)
+アラストル Ant Y Stockings Solid 1 (Garter Belt)=Alastor Ant Y Stockings Solid 1 (Garter Belt)
+アラストル Ant Y Stockings Solid 2 (Garter Belt)=Alastor Ant Y Stockings Solid 2 (Garter Belt)
+アラストル Ant Y Stockings Solid 3 (Garter Belt)=Alastor Ant Y Stockings Solid 3 (Garter Belt)
+アラストル Ant Y Stockings Transparent 1=Alastor Ant Y Stockings Transparent 1
+アラストル Ant Y Stockings Transparent 2=Alastor Ant Y Stockings Transparent 2
+アラストル Ant Y Stockings Transparent 3=Alastor Ant Y Stockings Transparent 3
+アラストル Ant Y Stockings Solid 1=Alastor Ant Y Stockings Solid 1
+アラストル Ant Y Stockings Solid 2=Alastor Ant Y Stockings Solid 2
+アラストル Ant Y Stockings Solid 3=Alastor Ant Y Stockings Solid 3
 
 // chara/deathweasel/ec_items.unity3d
 サイドレースレギンス=Side Lace Leggings
 
 // chara/ymgpt/ymgpt_co_gloves_long01_lr_alt.unity3d
-長手袋(L)=Long Glove(L)
-長手袋(R)=Long Glove(R)
+長手袋(L)=Long Glove (L)
+長手袋(R)=Long Glove (R)
 
 // chara/mt_pattern_KA.unity3d
-贵族护臂=贵族护臂
-贵族腰带=Women's waistband
+贵族护臂=Noble Armguards
+贵族腰带=Women's Waistband
 
 // chara/mt_pattern_ZZ.unity3d
-军服腰带=军服腰带
+军服腰带=Military Uniform Belt
 
 // chara/mt_pattern_SP.unity3d
 王子服束腰=Prince's uniform
@@ -59,14 +59,14 @@
 マキノガーター=Makino Garter
 
 // chara/_mods/mash6.unity3d
-マシュパンスト2テカ=Marsh Pantyhose 2 Teka
+マシュパンスト2テカ=Mash Pantyhose 2 Techa
 
 // chara/_mods/mash9.unity3d
-マシュパンスト2=Marsh pantyhose 2
+マシュパンスト2=Mash Pantyhose 2
 
 // chara/_mods/mash.unity3d
-マシュ=Marsh
-マシュパンスト=Marsh pantyhose
+マシュ=Mash
+マシュパンスト=Mash Pantyhose
 
 // chara/_mods/miraiakari.unity3d
 ミライアカリ=Mariah Carey
@@ -99,10 +99,10 @@
 食い込みブルマ2=Full Length Bloomers 2
 
 // chara/mf_asuna.unity3d
-創世神ステイシア[SAO]=God of Creation Stacia [SAO][SAO
+創世神ステイシア[SAO]=God of Creation Stacia [SAO]
 
 // chara/_kero/co_gloves_NT_02.unity3d
-レア用手袋=Gloves for Rare
+レア用手袋=Rare Gloves
 
 // chara/_kero/co_NailGloves_NT_01_alt.unity3d
 ネイルチップ（Ｓ）=Nail Tip (S)
@@ -111,37 +111,37 @@
 
 // chara/nakay/co_kuikomithigh_nkt00.unity3d
 くいこみスパッツ１分=Kumi-Kumi Spats 1min
-くいこみスパッツ４分=Kumi-Kumi Spats 4 min.
+くいこみスパッツ４分=Kumi-Kumi Spats 4min
 
 // chara/nakay/co_panst_nkt00.unity3d
-パンスト（下げ）=Pantyhose (lowered)
+パンスト（下げ）=Pantyhose (Lowered)
 
 // chara/nashi/ns_bodytights.unity3d
-ツヤボディ1=Shiny Body 1
-ツヤボディ2=Shiny Body 2
+ツヤボディ1=Glossy Body 1
+ツヤボディ2=Glossy Body 2
 ツヤボディ3=Glossy Body 3
-ザラツヤボディ1=Rough Glossy Body 1
+ザラツヤボディ1=Glossy Body 1
 ザラツヤボディ2=Glossy Body 2
-ザラツヤボディ3=Shiny Body 3
-全身タイツ=Full body tights
-全身タイツ ツヤ=Full Length Tights Glossy
+ザラツヤボディ3=Glossy Body 3
+全身タイツ=Full-body Tights
+全身タイツ ツヤ=Full-body Tights Glossy
 
 // chara/nashi/ns_panst_zuri.unity3d
-ずらしパンスト=Slip Pantyhose
-ずらしパンスト　ランガード付き=Sliding pantyhose with run guard
+ずらしパンスト=Sliding Pantyhose
+ずらしパンスト　ランガード付き=Sliding Pantyhose with run guard
 
 // chara/nashi/ns_socks.unity3d
 右ハイサイ=Right High Sides
-右ニーソ=Right Knee Socks
-右ハイソ=right high-socks
-左ニーソ=Left knee socks
-左ハイソ=Left high-socks
+右ニーソ=Right Knee-socks
+右ハイソ=Right High-socks
+左ニーソ=Left Knee-socks
+左ハイソ=Left High-socks
 
 // chara/nashi/ns_panst.unity3d
-破れパンスト=Torn pantyhose
+破れパンスト=Torn Pantyhose
 破れ大パンスト=Large Ripped Pantyhose
 破れパンスト　ランガード付き=Ripped Pantyhose with Lung Guard
-破れ大パンスト　ランガード付き=Ripped Large Pantyhose w/Run Guard
+破れ大パンスト　ランガード付き=Ripped Large Pantyhose w/ Run Guard
 破れ網タイツ=Ripped Mesh Tights
 破れ大網タイツ=Ripped Large Mesh Tights
 
@@ -149,9 +149,9 @@
 袖(レオタード)=Sleeves (Leotard)
 
 // chara/_kero_mvd/cpo_shimakazeS_NT_00.unity3d
-透過全身タイツ VerA=Transparent Full Length Tights Ver.
-透過全身タイツ VerB=Transparent Full-Body Tights Ver.
-疑似ヌルテカボディ=Pseudo-slippery body
+透過全身タイツ VerA=Transparent Full-Body Tights VerA
+透過全身タイツ VerB=Transparent Full-Body Tights VerB
+疑似ヌルテカボディ=Pseudo-slippery Body
 さらしショート無地=Sarashi Short Plain
 
 // chara/ztoki/ztoki_04_socks_00.unity3d
@@ -160,34 +160,34 @@
 長めのニーソ 網=Longer Knee Socks Net
 
 // chara/taka/taka_co_panst_02.unity3d
-スパッツ改 (5分丈)=Spats Kai (5'-length)
-スパッツ改 (3分丈)=Spats Kai (3min. length)
-スパッツ改 (1分丈)=Spats Kai (1 min. length)
+スパッツ改 (5分丈)=Spats Revised (5min length)
+スパッツ改 (3分丈)=Spats Revised (3min length)
+スパッツ改 (1分丈)=Spats Revised (1min length)
 
 // chara/taka/taka_co_panst_04.unity3d
-スパッツ改 (太もも用ベルト)=Spats Kai (Belt for Thighs)
-スパッツ改 (太もも用ベルト/右のみ)=Spaz Kai (Belt for Thighs/Right Only)
-スパッツ改 (太もも用ベルト/左のみ)=Spats Kai (Belt for Thighs/Left Only)
+スパッツ改 (太もも用ベルト)=Spats Revised (Belt for Thighs)
+スパッツ改 (太もも用ベルト/右のみ)=Spats Revised (Belt for Thighs/Right Only)
+スパッツ改 (太もも用ベルト/左のみ)=Spats Revised (Belt for Thighs/Left Only)
 
 // chara/taka/taka_co_panst_03.unity3d
-スパッツ改 (5分丈/透過)=Spats Kai (5'Length/Transparent)
-スパッツ改 (3分丈/透過)=Spats Kai (3'Length/Transparent)
-スパッツ改 (1分丈/透過)=Spaz Kai (1min length/Transparent)
+スパッツ改 (5分丈/透過)=Spats Revised (5min length/Transparent)
+スパッツ改 (3分丈/透過)=Spats Revised (3min length/Transparent)
+スパッツ改 (1分丈/透過)=Spats Revised (1min length/Transparent)
 
 // chara/xne/xne_co_top_altbunny.unity3d
-マジシャン風シャツ（襟のみ）=Magician-style shirt (collar only)
+マジシャン風シャツ（襟のみ）=Magician-style shirt (Collar only)
 
 // chara/ymd/mf_clothExtend.unity3d
 パフトショルダー 小=Puffed Shoulder Small
 パフトショルダー 3c=Puffed Shoulder 3c
-パフトショルダー=Puffed shoulder
+パフトショルダー=Puffed Shoulder
 襟 1=Collar 1
 襟 2=Collar 2
 襟 3=Collar 3
 
 // chara/ymd/mf_clothVariation.unity3d
-くいこみニーハイ 1=Knee High 1
-くいこみニーハイ 2=Knee highs 2
+くいこみニーハイ 1=Knee Highs 1
+くいこみニーハイ 2=Knee Highs 2
 
 // chara/ymd/mf_clothVariation3.unity3d
 サポーター 膝=Supporter Knee
