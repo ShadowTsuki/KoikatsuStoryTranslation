@@ -20,29 +20,29 @@
 ナミブラ=Nami Bra
 
 // chara/07_danua/co_bra_07_danua.unity3d
-聖女のビスチェ-danua=bustier of saint-danua
+聖女のビスチェ-danua=Bustier of saint-danua
 
 // chara/mt_pattern_AI.unity3d
-搭配HS男衬衣用T恤=T-shirt for HS man's polo shirt
+搭配HS男衬衣用T恤=T-shirt for HS man's Polo shirt
 
 // chara/mt_pattern_KA.unity3d
 贵族腰带=Women's waistband
 
 // chara/co_shoes.unity3d
-贵族风衣=Clothes for noble families
+贵族风衣=Noble Trench coat
 
 // chara/mt_pattern_ZZ.unity3d
-偶像服肩章=Shoulder patch
-王子服肩章=Shoulder patch for prince
-军服肩章=Shoulder patch for military uniform
+偶像服肩章=Idol Shoulder patch
+王子服肩章=Prince Shoulder patch
+军服肩章=Military Uniform Shoulder patch
 肩章=Shoulder patch
-军服腰带=军服腰带
+军服腰带=Military Uniform Belt
 
 // chara/ao_head_01.unity3d
-偶像肩章改=偶像服肩章改
+偶像肩章改=Idol Shoulder patch Revised
 
 // chara/mt_pattern_SP.unity3d
-王子服束腰=Prince's uniform
+王子服束腰=Prince's Uniform
 
 // chara/Sen3_rean.unity3d
 黎恩(下摆腰带扣)=Reign (Lower & Fore Waistband)
@@ -78,7 +78,7 @@
 ガンツスーツインナー2=Gantz Suit Inner 2
 
 // chara/_mods/hotlimit.unity3d
-HotLimit衣装=HotLimit Costumes
+HotLimit衣装=HotLimit Costume
 
 // chara/_mods/ituki5.unity3d
 Qテクター=Q-Tector
@@ -110,10 +110,10 @@ Qテクター(ツヤ)=Q-techter (Tsuya)
 レーシングミク2019=Racing Miku 2019
 
 // chara/_mods/shiny_plug_suit1.unity3d
-テカテカ真希波プラグスーツ=Tekateka Makinami Plug Suit
+テカテカ真希波プラグスーツ=Techa Techa Makinami Plug Suit
 
 // chara/_mods/shiny_plug_suit2.unity3d
-テカテカ式波プラグスーツ=Tekateka Shikinami Plug Suit
+テカテカ式波プラグスーツ=Techa Techa Shikinami Plug Suit
 
 // chara/_mods/shiny_plug_suit3.unity3d
 テカテカ黒波プラグスーツ=Techa Techa Black Wave Plug Suit
@@ -140,12 +140,12 @@ Maハイローブラ=Ma high-low bra
 聖女堕とし=Saint Corruption
 
 // chara/mat/mat_open_bra.unity3d
-オープンビキニ=Open bikini
-オープンビスチェ =Open bustier 
+オープンビキニ=Open Bikini
+オープンビスチェ =Open Bustier 
 オープンフリルビキニ=Open Frilled Bikini
 
 // chara/Mint/co_M_holesSC.unity3d
-穴あきスク水=School Swimwear with Holes
+穴あきスク水=School Swimsuit with Holes
 ハート穴スク水=Heart Hole School Swimsuit
 破れスク水=Torn School Swimsuit
 
@@ -155,8 +155,8 @@ Maハイローブラ=Ma high-low bra
 ミニチューブトップ=Mini Tube Tops
 
 // chara/_kero/cpo_shimakazeS_NT_00.unity3d
-透過全身タイツ VerA=Transparent Full Length Tights Ver.
-透過全身タイツ VerB=Transparent Full-Body Tights Ver.
+透過全身タイツ VerA=Transparent Full-Body Tights VerA
+透過全身タイツ VerB=Transparent Full-Body Tights VerB
 疑似ヌルテカボディ=Pseudo-slippery body
 さらしショート無地=Sarashi Short Plain
 
@@ -173,29 +173,29 @@ Maハイローブラ=Ma high-low bra
 1/2カップブラ=1/2 Cup Bra
 1/2カップブラ 柄付き=1/2 Cup Bra Patterned
 紐付きチューブトップブラ=Tube Top Bra with Straps
-紐付きチューブトップブラ 柄付き=Tube Top Bra with Straps Patterned
+紐付きチューブトップブラ 柄付き=Tube Top Bra with Straps with Pattern
 シェルフカップブラ=Shelf Cup Bra
 シェルフカップブラ 柄付き=Shelf Cup Bra with Pattern
 オープンブラ=Open Bra
-オープンブラ エナメル風味=Open bra with enamel
+オープンブラ エナメル風味=Open Bra with enamel
 
 // chara/nashi/ns_mizugi.unity3d
 ひもぴーんビキニ=Flouncy Bikini
-ひもぴーんビキニ　ツヤ=Flouncy bikini Glossy
-ひもぴーんマイクロビキニ=Floppy micro bikini
-ひもぴーんバンドゥビキニ=Hymopy bandeau bikini
-ひもぴーん△ビキニ=Hymopy △ bikini
-ひもぴーんマイクロ△ビキニ=Hymopy micro bikini
-ひもぴーんビキニ カラバリ=Pimpin bikini Color variation
-ひもぴーんビキニ　ツヤ　カラバリ=Pimpin bikini Glossy Calabash
-ひもぴーんマイクロビキニ　カラバリ=HIMOPYN micro bikini Calabash
-ひもぴーん△ビキニ　カラバリ=HIMOPYN bikini -color variation
-ひもぴーんマイクロ△ビキニ　カラバリ=HIMOPYN micro bikini -color variation
-メタルひもぴーんビキニ=Metal string bikini
-メタルひもぴーんマイクロビキニ=Metal string micro bikini
-メタルひもぴーんバンドゥビキニ=Metal string bandeau bikini
-メタルひもぴーん△ビキニ=Metal string bikini
-メタルひもぴーんマイクロ△ビキニ=Metal string micro bikini
+ひもぴーんビキニ　ツヤ=Flouncy Bikini Glossy
+ひもぴーんマイクロビキニ=Floppy Micro Bikini
+ひもぴーんバンドゥビキニ=Hymopy Bandeau Bikini
+ひもぴーん△ビキニ=Hymopy △ Bikini
+ひもぴーんマイクロ△ビキニ=Hymopy Micro △ Bikini
+ひもぴーんビキニ カラバリ=Pimpin Bikini Color variation
+ひもぴーんビキニ　ツヤ　カラバリ=Pimpin Bikini Glossy Calabash
+ひもぴーんマイクロビキニ　カラバリ=Hymopy Micro Bikini Calabash
+ひもぴーん△ビキニ　カラバリ=Hymopy Bikini Color variation
+ひもぴーんマイクロ△ビキニ　カラバリ=Hymopy Micro △ Bikini Color variation
+メタルひもぴーんビキニ=Metal string Bikini
+メタルひもぴーんマイクロビキニ=Metal string Micro Bikini
+メタルひもぴーんバンドゥビキニ=Metal string Bandeau Bikini
+メタルひもぴーん△ビキニ=Metal string △ Bikini
+メタルひもぴーんマイクロ△ビキニ=Metal string Micro △ Bikini
 
 // chara/nashi/ns_mizugi_lo.unity3d
 新スク=New School
@@ -203,38 +203,38 @@ Maハイローブラ=Ma high-low bra
 ワンピース水着=One-piece swimwear
 
 // chara/nashi/ns_mizugi_tubetop.unity3d
-チューブトップ紐クロス=Tube top string cross
-チューブトップ紐センター=Tube top string center
+チューブトップ紐クロス=Tube top String Cross
+チューブトップ紐センター=Tube top String Center
 
 // chara/nashi/co_microbikini.unity3d
-極小マイクロブラ=Ultra-small micro bra
+極小マイクロブラ=Ultra-small Micro Bra
 
 // chara/nashi/ns_Front_hook.unity3d
 フロントホック 横ぽろり=Front Hook Side Purl
 フロントホック 前ぽろり=Front Hook Front Porous
 
 // chara/nashi/ns_mizugi_2nd.unity3d
-ひもぴーん2nd三角ビキニ=Himopy 2nd triangle bikini
-ひもぴーん2ndクロス三角ビキニ=Himopy 2nd cross triangle bikini
+ひもぴーん2nd三角ビキニ=Hymopy 2nd Triangle Bikini
+ひもぴーん2ndクロス三角ビキニ=Hymopy 2nd Cross Triangle Bikini
 
 // chara/nin/nin_shitagi.unity3d
-三角ブラ(ツヤ)=Triangle bra (glossy)
-ストラップレスブラ(ツヤ)=Strapless bra, lustrous
+三角ブラ(ツヤ)=Triangle Bra (Glossy)
+ストラップレスブラ(ツヤ)=Strapless Bra (Lustrous)
 レオタード (袖なし)=Leotard (Sleeveless)
 ハイレグレオタード (袖なし)=High-Leg Leotard (Sleeveless)
-全身タイツ(ショーツ可)=Full-length tights (shorts allowed)
+全身タイツ(ショーツ可)=Full-length Tights (Shorts allowed)
 アサシンレオタード=Assassin Leotard
 
 // chara/taka/taka_co_bra_01.unity3d
 ビキニ水着 (3色変更可)=Bikinis (3 colors available)
 
 // chara/mat/mat_swim_hc.unity3d
-ハートカット競泳水着=Heart cut swimsuit
-ハートカット競泳水着 ツヤ有り=Heart cut swimsuit with luster
-ハートカットビキニ水着=Heart cut bikini swimsuit
-ハートカットビキニ水着 ツヤ有り=Heart cut bikini swimsuit with luster
+ハートカット競泳水着=Heart cut Swimsuit
+ハートカット競泳水着 ツヤ有り=Heart cut Swimsuit with Luster
+ハートカットビキニ水着=Heart cut Bikini Swimsuit
+ハートカットビキニ水着 ツヤ有り=Heart cut Bikini Swimsuit with Luster
 ハートカットレオタード=Heart Cut Leotard
-ハートカットレオタード ツヤ有り=Heart cut leotard with luster
+ハートカットレオタード ツヤ有り=Heart cut Leotard with Luster
 
 // chara/co_bra_xmas.unity3d
 サンタ=Santa Claus
@@ -245,39 +245,39 @@ Maハイローブラ=Ma high-low bra
 ハイレグバニー（重ね着用/襟op）=High-Legged Bunny (Overlapping / Collar op)
 
 // chara/xne/xne_co_bra_brzlswim.unity3d
-ブラジル水着（張り極小）=Brazilian swimsuit (very small tension)
-ブラジル水着（張り小）=Brazilian swimsuit (Tension small)
-ブラジル水着（張り中）=Brazilian swimsuit (medium tension)
-ブラジル水着（張り大）=Brazilian swimsuit (large)
+ブラジル水着（張り極小）=Brazilian Swimsuit (Very Small Tension)
+ブラジル水着（張り小）=Brazilian Swimsuit (Small Tension)
+ブラジル水着（張り中）=Brazilian Swimsuit (Medium Tension)
+ブラジル水着（張り大）=Brazilian Swimsuit (Large Tension)
 
 // chara/xne/xne_co_bra_eroswim01.unity3d
-xne水着Ａ=XNE Swimsuit A
-xne水着Ａ（透け）=XNE Swimsuit A (transparent)
-xneレース下着=XNE Lace Underwear
+xne水着Ａ=xne Swimsuit A
+xne水着Ａ（透け）=xne Swimsuit A (Transparent)
+xneレース下着=xne Lace Underwear
 
 // chara/xne/xne_co_bra_himoswim.unity3d
-ひも水着=String swimsuit
-ひも水着（透け）=Braided swimsuit (transparent)
-ひも水着（巨乳）=String swimsuit (Big tits)
-ひも水着（巨乳／透け）=String swimsuit (Big tits / Transparent)
+ひも水着=String Swimsuit
+ひも水着（透け）=String Swimsuit (Transparent)
+ひも水着（巨乳）=String Swimsuit (Big tits)
+ひも水着（巨乳／透け）=String Swimsuit (Big Tits / Transparent)
 
 // chara/xne/xne_co_bra_saitotights.unity3d
 ボディタイツ（筋肉質）=Body Tights (Muscular)
-ボディタイツ透け（筋肉質）=Body tights transparent (muscular)
-ボディタイツ（普通）=Body tights (normal)
+ボディタイツ透け（筋肉質）=Body Tights Transparent (Muscular)
+ボディタイツ（普通）=Body Tights (Normal)
 ボディタイツ透け（普通）=Body Tights Transparent (Normal)
 ボディタイツ（痩せ）=Body Tights (Skinny)
-ボディタイツ透け（痩せ）=Transparent body tights (skinny)
+ボディタイツ透け（痩せ）=Body Tights Transparent (Skinny)
 
 // chara/xne/xne_co_bra_gantaiswim.unity3d
-眼帯ビキニ=Eye patch bikini
-眼帯ビキニ（紐ピン）=Eye patch bikini (string pin)
-四角ビキニ=Square bikini
-四角ビキニ（紐ピン）=Square bikini (string pins)
+眼帯ビキニ=Eye patch Bikini
+眼帯ビキニ（紐ピン）=Eye patch bikini (String pin)
+四角ビキニ=Square Bikini
+四角ビキニ（紐ピン）=Square Bikini (String pin)
 
 // chara/xne/xne_co_bra_tubeswim.unity3d
 チューブトップ水着=Tube top swimsuit
-チューブトップ水着（胸張り）=Tube top swimsuit (breast padding)
+チューブトップ水着（胸張り）=Tube top swimsuit (Breast padding)
 チューブトップ水着H=Tube top swimsuit H
 
 // chara/ymd/mf_clothVariation.unity3d
@@ -291,20 +291,20 @@ xneレース下着=XNE Lace Underwear
 アンダーシャツ3 首まで 袖短=Undershirt 3 Up to neck Short sleeves
 
 // chara/ymd/mf_texchange.unity3d
-スクール水着 テカ=School swimsuit Teka
-競泳水着 テカ=Swimsuit, teka
+スクール水着 テカ=School Swimsuit Techa
+競泳水着 テカ=Swimsuit Techa
 
 // chara/y004.unity3d
-マイクロビキニ（上）=Micro bikini (top)
+マイクロビキニ（上）=Micro Bikini (Top)
 
 // chara/y003.unity3d
 透けスクール水着=Transparent School Swimsuit
 
 // chara/y002.unity3d
-透け競泳水着=Transparent swimsuit
+透け競泳水着=Transparent Swimsuit
 
 // chara/ztoki/ztoki_01b_bra_nippless.unity3d
-ハート=Pattern 9
+ハート=Heart
 星=Star
 クロス=Cross
 ハート 小=Heart Small
