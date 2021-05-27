@@ -3,38 +3,38 @@
 //
 
 // chara/dak/mt_ramp_00.unity3d
-深いなめらか影1=Deep smooth shadow 1
-深いなめらか影2=Deep smooth shadow 2
+深いなめらか影1=Deep Smooth Shadow 1
+深いなめらか影2=Deep Smooth Shadow 2
 深いなめらか影3=Deep Smooth Shadow 3
-逆光用ボケ影1=Bokeh shadow for backlight 1
-逆光用ボケ影2=Bokeh shadow for backlighting 2
-逆光用ボケ影3=Bokeh shadow for backlighting 3
-逆光用なめらか=Smooth for backlighting
+逆光用ボケ影1=Blurred Shadow for backlight 1
+逆光用ボケ影2=Blurred Shadow for backlight 2
+逆光用ボケ影3=Blurred Shadow for backlight 3
+逆光用なめらか=Smooth for backlight
 
 // chara/dak/mt_ramp_rev00.unity3d
-逆光用完全なめらか影=Perfectly smooth shadow for backlighting
-逆光用深いくっきり影=backlit deep clear shadow
-逆光用深いなめらか影=backlit deep smooth shadow
-逆光用境界線のある影=bordered shadow for backlighting
-逆光用浅いなめらか影=Shallow smooth shadow for backlighting
-逆光用浅いくっきり影=Shallow clear shadow for backlighting
+逆光用完全なめらか影=Perfectly Smooth Shadow for backlight
+逆光用深いくっきり影=Deep Clear Shadow for backlight
+逆光用深いなめらか影=Deep Smooth Shadow for backlight
+逆光用境界線のある影=Bordered Shadow for backlight
+逆光用浅いなめらか影=Shallow Smooth Shadow for backlight
+逆光用浅いくっきり影=Shallow Clear Shadow for backlight
 
 // chara/koikoi/mt_ramp_koikoi_00.unity3d
 はっきり＋リムライト=Clear + Rim Light
-なめらか＋リムライト=Smooth + rim light
-リムライトもなめらか=Rim light also smooth
+なめらか＋リムライト=Smooth + Rim Light
+リムライトもなめらか=Rim Light also Smooth
 逆光=Backlighting
 境界線＋リムライト=Border + Rim Light
 リムライトのみ=Rim light only
 
 // chara/phmod/mt_ramp_PH1.unity3d
-完全なめらか１=Perfectly smooth 1
-完全なめらか２=Perfectly smooth 2
+完全なめらか１=Perfectly Smooth 1
+完全なめらか２=Perfectly Smooth 2
 ハイブリッド１=Hybrid 1
 ハイブリッド２=Hybrid 2
-アニメ調１=Cartoony1
-アニメ調２=Animated2
-アニメ調３=Animated3
+アニメ調１=Animated 1
+アニメ調２=Animated 2
+アニメ調３=Animated 3
 
 // chara/ymd/mf_ramp.unity3d
 境界くっきり１=Clear Boundary 1
