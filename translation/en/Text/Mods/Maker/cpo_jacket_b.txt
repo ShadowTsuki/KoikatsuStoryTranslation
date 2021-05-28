@@ -9,7 +9,7 @@
 [Add]弓道衣胸当てなし=[Add] Kyudo Kimono without Breastplate
 [Add]スーツ=[Add] Suit
 [Add]ノースリーブワンピース=[Add] Sleeveless dress
-[Add]パーカー前開き=[Add] Hoodie with Frot opening
+[Add]パーカー前開き=[Add] Hoodie with Front open
 
 // chara/co_top_12.unity3dn
 [Add]ワンピース（無地）=[Add] Dress (Plain)
