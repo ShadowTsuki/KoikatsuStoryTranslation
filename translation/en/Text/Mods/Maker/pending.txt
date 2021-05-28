@@ -1,0 +1,8 @@
+//
+// Fixing Broken Line from Dump
+//
+
+// cpo_jacket_a.txt
+// chara/_mods/LongSleeveT.unity3d
+
+ハイネック長袖Tシャツ-shikibu=High Neck Long Sleeve T-Shirt-shikibu
