@@ -9,5 +9,5 @@
 右の口上=Mouth (Upper Right)
 左の目元=Below Left Eye
 右の目元=Below Right Eye
-額中央=Between Eyes
+額中央=Forehead Center
 そばかす=Freckles
