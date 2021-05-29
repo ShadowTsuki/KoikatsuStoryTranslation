@@ -8,8 +8,8 @@
 // chara/karasu/mt_body_paint_k00.unity3d
 右手1=Right Hand 1
 左手1=Left Hand 1
-右手2=Right hand 2
-左手2=Left hand 2
+右手2=Right Hand 2
+左手2=Left Hand 2
 
 // chara/nose.unity3d
 タイプＡ=Type A
@@ -167,18 +167,18 @@
 サクヤ 鼻筋=Sakuya Nose line
 
 // chara/ymd/mf_siru.unity3d
-汁=juice
+汁=Shiru
 
 // chara/ymd/mf_ymdtexture.unity3d
-鼻影改=nose shadow revision
-鼻４=nose 4
-鼻筋=nasal stripe
-鼻影=shadow of nose
-ほうれい線=smile line
-ファンデーション=foundation
+鼻影改=Nose Shadow Revised
+鼻４=Nose 4
+鼻筋=Nose Stripe
+鼻影=Nose Shadow
+ほうれい線=Laugh line
+ファンデーション=Foundation
 目元１=Around the eyes 1
 目元２=Around the eyes 2
 チーク１=Blush 1
 チーク２=Blush 2
-鼻影R=Nose shadow R
-鼻影改R=Nose Shadow Revision R
+鼻影R=Nose Shadow R
+鼻影改R=Nose Shadow Revised R
