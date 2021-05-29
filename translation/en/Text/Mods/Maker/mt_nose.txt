@@ -3,7 +3,7 @@
 //
 
 // chara/_mods/natumi2.unity3d
-夏美=Summer beauty
+夏美=Natsumi
 
 // chara/_kero/CMS_NT_00.unity3d
 タイプＡ=Type A
@@ -45,7 +45,7 @@
 タイプＡＫ=Type AK
 
 // chara/_kero/mt_nose_NT.unity3d
-タイプ５=Pattern 5
+タイプ５=Type 5
 タイプ６=Type 6
 タイプ７=Type 7
 
