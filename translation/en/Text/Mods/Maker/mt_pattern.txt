@@ -35,8 +35,8 @@ SKBR-ジャッケット内S=SKBR-Jacket Inside S
 楕円=Oval
 
 // chara/JK/JK_pattern.unity3d
-シミ横0縦110=Stain horizontal 0 vertical 110
-グラデーションボーダー2=Gradation Border 2
+シミ横0縦110=Stain Horizontal 0 vertical 110
+グラデーションボーダー2=Gradient Border 2
 
 // chara/taka/taka_mt_pattern_01.unity3d
 スク水 サイドライン1A=School Swimsuit Sideline 1A
