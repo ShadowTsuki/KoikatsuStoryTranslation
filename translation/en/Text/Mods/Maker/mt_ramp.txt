@@ -6,18 +6,18 @@
 深いなめらか影1=Deep Smooth Shadow 1
 深いなめらか影2=Deep Smooth Shadow 2
 深いなめらか影3=Deep Smooth Shadow 3
-逆光用ボケ影1=Blurred Shadow for backlight 1
-逆光用ボケ影2=Blurred Shadow for backlight 2
-逆光用ボケ影3=Blurred Shadow for backlight 3
-逆光用なめらか=Smooth for backlight
+逆光用ボケ影1=Blurred Shadow for Backlight 1
+逆光用ボケ影2=Blurred Shadow for Backlight 2
+逆光用ボケ影3=Blurred Shadow for Backlight 3
+逆光用なめらか=Smooth for Backlight
 
 // chara/dak/mt_ramp_rev00.unity3d
-逆光用完全なめらか影=Perfectly Smooth Shadow for backlight
-逆光用深いくっきり影=Deep Clear Shadow for backlight
-逆光用深いなめらか影=Deep Smooth Shadow for backlight
-逆光用境界線のある影=Bordered Shadow for backlight
-逆光用浅いなめらか影=Shallow Smooth Shadow for backlight
-逆光用浅いくっきり影=Shallow Clear Shadow for backlight
+逆光用完全なめらか影=Perfectly Smooth Shadow for Backlight
+逆光用深いくっきり影=Deep Clear Shadow for Backlight
+逆光用深いなめらか影=Deep Smooth Shadow for Backlight
+逆光用境界線のある影=Bordered Shadow for Backlight
+逆光用浅いなめらか影=Shallow Smooth Shadow for Backlight
+逆光用浅いくっきり影=Shallow Clear Shadow for Backlight
 
 // chara/koikoi/mt_ramp_koikoi_00.unity3d
 はっきり＋リムライト=Clear + Rim Light
