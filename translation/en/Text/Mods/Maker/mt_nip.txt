@@ -3,13 +3,13 @@
 //
 
 // chara/nashi/mt_nip_00.unity3d
-Clochette乳首1=Clochette nipple 1
+Clochette乳首1=Clochette Nipple 1
 Clochette乳首2=Clochette Nipple 2
 Clochette乳首3=Clochette Nipple 3
-Clochette乳首4=Clochette nipple 4
-Clochette乳首5=Clochette nipple 5
-Clochette乳首6=Clochette nipple6
-Clochette乳首7=Clochette Nipple7
+Clochette乳首4=Clochette Nipple 4
+Clochette乳首5=Clochette Nipple 5
+Clochette乳首6=Clochette Nipple 6
+Clochette乳首7=Clochette Nipple 7
 
 // chara/etc.unity3d
 なし=None
@@ -17,16 +17,16 @@ Clochette乳首7=Clochette Nipple7
 // chara/phmod/mt_nip_PH1.unity3d
 リアル１=Real 1
 リアル２=Real 2
-陥没乳首=Depressed Nipple
+陥没乳首=Inverted Nipple
 パフィー=Puffy
 エロマンガ=Erotic Manga
 スター=Star
-ハート=Pattern 9
+ハート=Heart
 
 // chara/phmod/mt_nip_PH2.unity3d
 リアル１落書き=Real 1 Doodle
 リアル２落書き=Real 2 Graffiti
-陥没乳首落書き=Puffy graffiti
+陥没乳首落書き=Puffy Graffiti
 パフィー落書き=Puffy Graffiti
 エロマンガ落書き=Eromanga Graffiti
 
