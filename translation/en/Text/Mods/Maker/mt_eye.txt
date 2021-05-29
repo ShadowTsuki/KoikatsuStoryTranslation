@@ -9,8 +9,8 @@
 乃愛=Noa
 
 // chara/sekka/sek_ban_eye.unity3d
-バンドリ（ハイライト有）=Bandolier (with highlight)
-バンドリ（ハイライト無）=Bandolier (without highlight)
+バンドリ（ハイライト有）=Bandori (with highlight)
+バンドリ（ハイライト無）=Bandori (without highlight)
 
 // chara/mt_eye_bdsqlsz.unity3d
 adeye１=adeye1
@@ -25,24 +25,24 @@ adeye９=adeye9
 adeye１０=adeye10
 
 // chara/dak/mt_eye_00.unity3d
-三重線2-3=Triple line 2-3
-三重線2-2=Triple line 2-2
-三重線2-1=Mie Line 2-1
-三重線1-3=Mie Line 1-3
-三重線1-2=Mie Line 1-2
-三重線1-1=Mie Line 1-1
-二重線1-3=Double line 1-3
-二重線2-3=Double line 2-3
-二重線3-3=Double line 3-3
-二重線4-3=Double line 4-3
-二重線4-2=Double line 4-2
-二重線4-1=Double line 4-1
-二重線1-2=Double line 1-2
-二重線2-2=Double line 2-2
-二重線3-2=Double line 3-2
-二重線1-1=Double line 1-1
-二重線2-1=Double line 2-1
-二重線3-1=Double line 3-1
+三重線2-3=Triple Line 2-3
+三重線2-2=Triple Line 2-2
+三重線2-1=Triple Line 2-1
+三重線1-3=Triple Line 1-3
+三重線1-2=Triple Line 1-2
+三重線1-1=Triple Line 1-1
+二重線1-3=Double Line 1-3
+二重線2-3=Double Line 2-3
+二重線3-3=Double Line 3-3
+二重線4-3=Double Line 4-3
+二重線4-2=Double Line 4-2
+二重線4-1=Double Line 4-1
+二重線1-2=Double Line 1-2
+二重線2-2=Double Line 2-2
+二重線3-2=Double Line 3-2
+二重線1-1=Double Line 1-1
+二重線2-1=Double Line 2-1
+二重線3-1=Double Line 3-1
 
 // chara/_mods/rider.unity3d
 ライダー=Rider
@@ -97,7 +97,7 @@ adeye１０=adeye10
 瞳_エデンVB=Eye_Eden VB
 
 // chara/mod/mod_ranrin_acm.unity3d
-瞳_嵐燐結騎=Eye_Rin
+瞳_嵐燐結騎=Eye_Arashi Rin Yuki
 
 // list/characustom/00_vkat02.unity3d
 タイプ７８=Type 78
@@ -109,7 +109,7 @@ adeye１０=adeye10
 タイプ８４=Type 84
 
 // wen/wenyaojing.unity3d
-wen妖精眼睛=Fiery eyes
+wen妖精眼睛=wen Fairy eyes
 
 // chara/ymd/mf_sakuya.unity3d
 サクヤ 虹彩=Sakuya Iris
@@ -136,5 +136,5 @@ wen妖精眼睛=Fiery eyes
 タイプ019=Type 019
 タイプ020=Type 020
 タイプ021=Type 021
-タイプ022=Type022
+タイプ022=Type 022
 タイプ023=Type 023
